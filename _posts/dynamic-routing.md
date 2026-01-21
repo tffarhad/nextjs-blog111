@@ -12,4 +12,4 @@ author:
 ogImage:
   url: /assets/blog/dynamic-routing/cover.jpg
 ---
-Updated vai PageCMS
+Updated via PageCMS by Somrat
